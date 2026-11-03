@@ -1,0 +1,5 @@
+{
+  "name": "typst-preview",
+  "owner": { "name": "ewanni" },
+  "plugins": [{ "name": "typst-preview", "source": "./" }]
+}

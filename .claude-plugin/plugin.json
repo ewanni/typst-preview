@@ -1,0 +1,16 @@
+{
+  "name": "typst-preview",
+  "version": "0.1.0",
+  "description": "Live preview pane for Typst documents: renders the current .typ file beside the chat and re-renders after every edit.",
+  "author": {
+    "name": "ewanni"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/ewanni/typst-preview",
+  "keywords": [
+    "typst",
+    "preview",
+    "pdf"
+  ],
+  "types": "./types/index.d.ts"
+}
